@@ -18,3 +18,4 @@ NOTE, NOTE, NOTE: Though I do not intend to change the contents of the repo, I w
 
 
 CHANGES-POST-1NOV2017: (a) Added a link to download PyCharm Community edition (2016.3)
+(b) Here are illustrative list of instrcution to install pycharm and Anaconda. https://medium.com/@GalarnykMichael/setting-up-pycharm-with-anaconda-plus-installing-packages-windows-mac-db2b158bd8c. Please note that in this page there are youtube based video instructions too.
